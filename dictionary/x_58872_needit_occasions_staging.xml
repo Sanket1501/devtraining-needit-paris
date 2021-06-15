@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="occasions_staging" max_length="40" name="x_58872_needit_occasions_staging" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Download link" label="Download link" max_length="204" name="u_download_link" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Remarks (if any)" label="Remarks (if any)" max_length="253" name="u_remarks__if_any_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Software/links" label="Software/links" max_length="40" name="u_software_links" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stream" label="Stream" max_length="40" name="u_stream" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Version" label="Version" max_length="40" name="u_version" type="string"/>
+    </element>
+</database>
